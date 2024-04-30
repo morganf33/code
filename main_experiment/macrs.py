@@ -456,7 +456,7 @@ You MUST NOT give any explanation in your response. Now, please generate an outp
                               "\nYou have access to the [dialogue history] between you and the user. " \
                               "And you will be given three [candidate responses], as each of them corresponds to a different dialogue act. " \
                               "\nYou need to consider the following aspects: " \
-                              "(1) The effectiveness of recommendations can be measured by factors such as the recommendation accuracy and the confidence in the recommended items. " \
+                              "(1) The confidence of recommended items. " \
                               "(2) The information gain; namely, how well the response can narrow down the range of recommendations. " \
                               "(3) The diversity of dialogue acts in the whole dialogue, because rigid and monotonous conversations are unwelcome. " \
                               "\nHere are some examples: " \
